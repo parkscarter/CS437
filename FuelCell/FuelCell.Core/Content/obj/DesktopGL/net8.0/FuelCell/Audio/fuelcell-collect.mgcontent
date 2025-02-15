@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/Users/carterparks/Desktop/CS437/FuelCell/FuelCell.Core/Content/Audio/fuelcell-collect.wav</SourceFile>
+  <SourceTime>2024-12-23T16:14:10-06:00</SourceTime>
+  <DestFile>/Users/carterparks/Desktop/CS437/FuelCell/FuelCell.Core/Content/bin/DesktopGL/FuelCell/Audio/fuelcell-collect.xnb</DestFile>
+  <DestTime>2025-02-10T13:57:19.9033348-06:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2024-08-16T12:05:56-05:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2024-08-16T12:05:56-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

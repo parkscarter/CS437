@@ -1,0 +1,12 @@
+/Users/carterparks/Desktop/CS437/AutoPong/AutoPong.Core/bin/Debug/net8.0/AutoPong.Core.deps.json
+/Users/carterparks/Desktop/CS437/AutoPong/AutoPong.Core/bin/Debug/net8.0/AutoPong.Core.dll
+/Users/carterparks/Desktop/CS437/AutoPong/AutoPong.Core/bin/Debug/net8.0/AutoPong.Core.pdb
+/Users/carterparks/Desktop/CS437/AutoPong/AutoPong.Core/obj/Debug/net8.0/AutoPong.Core.csproj.AssemblyReference.cache
+/Users/carterparks/Desktop/CS437/AutoPong/AutoPong.Core/obj/Debug/net8.0/AutoPong.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carterparks/Desktop/CS437/AutoPong/AutoPong.Core/obj/Debug/net8.0/AutoPong.Core.AssemblyInfoInputs.cache
+/Users/carterparks/Desktop/CS437/AutoPong/AutoPong.Core/obj/Debug/net8.0/AutoPong.Core.AssemblyInfo.cs
+/Users/carterparks/Desktop/CS437/AutoPong/AutoPong.Core/obj/Debug/net8.0/AutoPong.Core.csproj.CoreCompileInputs.cache
+/Users/carterparks/Desktop/CS437/AutoPong/AutoPong.Core/obj/Debug/net8.0/AutoPong.Core.dll
+/Users/carterparks/Desktop/CS437/AutoPong/AutoPong.Core/obj/Debug/net8.0/refint/AutoPong.Core.dll
+/Users/carterparks/Desktop/CS437/AutoPong/AutoPong.Core/obj/Debug/net8.0/AutoPong.Core.pdb
+/Users/carterparks/Desktop/CS437/AutoPong/AutoPong.Core/obj/Debug/net8.0/ref/AutoPong.Core.dll

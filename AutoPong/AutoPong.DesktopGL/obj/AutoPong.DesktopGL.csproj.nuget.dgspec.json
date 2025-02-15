@@ -1,0 +1,145 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/carterparks/Desktop/CS437/AutoPong/AutoPong.DesktopGL/AutoPong.DesktopGL.csproj": {}
+  },
+  "projects": {
+    "/Users/carterparks/Desktop/CS437/AutoPong/AutoPong.Core/AutoPong.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/carterparks/Desktop/CS437/AutoPong/AutoPong.Core/AutoPong.Core.csproj",
+        "projectName": "AutoPong.Core",
+        "projectPath": "/Users/carterparks/Desktop/CS437/AutoPong/AutoPong.Core/AutoPong.Core.csproj",
+        "packagesPath": "/Users/carterparks/.nuget/packages/",
+        "outputPath": "/Users/carterparks/Desktop/CS437/AutoPong/AutoPong.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/carterparks/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MonoGame.Framework.DesktopGL": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.8.*, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/8.0.405/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/carterparks/Desktop/CS437/AutoPong/AutoPong.DesktopGL/AutoPong.DesktopGL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/carterparks/Desktop/CS437/AutoPong/AutoPong.DesktopGL/AutoPong.DesktopGL.csproj",
+        "projectName": "AutoPong.DesktopGL",
+        "projectPath": "/Users/carterparks/Desktop/CS437/AutoPong/AutoPong.DesktopGL/AutoPong.DesktopGL.csproj",
+        "packagesPath": "/Users/carterparks/.nuget/packages/",
+        "outputPath": "/Users/carterparks/Desktop/CS437/AutoPong/AutoPong.DesktopGL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/carterparks/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/carterparks/Desktop/CS437/AutoPong/AutoPong.Core/AutoPong.Core.csproj": {
+                "projectPath": "/Users/carterparks/Desktop/CS437/AutoPong/AutoPong.Core/AutoPong.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MonoGame.Content.Builder.Task": {
+              "target": "Package",
+              "version": "[3.8.*, )"
+            },
+            "MonoGame.Framework.DesktopGL": {
+              "target": "Package",
+              "version": "[3.8.*, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/8.0.405/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

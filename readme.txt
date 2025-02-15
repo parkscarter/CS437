@@ -1,0 +1,1 @@
+this command creates a new project: dotnet new mgdesktopgl

@@ -1,0 +1,12 @@
+/Users/carterparks/Desktop/CS437/FuelCell/FuelCell.Core/bin/Debug/net8.0/FuelCell.Core.deps.json
+/Users/carterparks/Desktop/CS437/FuelCell/FuelCell.Core/bin/Debug/net8.0/FuelCell.Core.dll
+/Users/carterparks/Desktop/CS437/FuelCell/FuelCell.Core/bin/Debug/net8.0/FuelCell.Core.pdb
+/Users/carterparks/Desktop/CS437/FuelCell/FuelCell.Core/obj/Debug/net8.0/FuelCell.Core.csproj.AssemblyReference.cache
+/Users/carterparks/Desktop/CS437/FuelCell/FuelCell.Core/obj/Debug/net8.0/FuelCell.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carterparks/Desktop/CS437/FuelCell/FuelCell.Core/obj/Debug/net8.0/FuelCell.Core.AssemblyInfoInputs.cache
+/Users/carterparks/Desktop/CS437/FuelCell/FuelCell.Core/obj/Debug/net8.0/FuelCell.Core.AssemblyInfo.cs
+/Users/carterparks/Desktop/CS437/FuelCell/FuelCell.Core/obj/Debug/net8.0/FuelCell.Core.csproj.CoreCompileInputs.cache
+/Users/carterparks/Desktop/CS437/FuelCell/FuelCell.Core/obj/Debug/net8.0/FuelCell.Core.dll
+/Users/carterparks/Desktop/CS437/FuelCell/FuelCell.Core/obj/Debug/net8.0/refint/FuelCell.Core.dll
+/Users/carterparks/Desktop/CS437/FuelCell/FuelCell.Core/obj/Debug/net8.0/FuelCell.Core.pdb
+/Users/carterparks/Desktop/CS437/FuelCell/FuelCell.Core/obj/Debug/net8.0/ref/FuelCell.Core.dll

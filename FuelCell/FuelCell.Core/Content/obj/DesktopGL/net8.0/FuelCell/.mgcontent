@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config>$(Configuration)</Config>
+  <SourceFiles>
+    <File>/Users/carterparks/Desktop/CS437/FuelCell/FuelCell.Core/Content/Audio/background-music.mp3</File>
+    <File>/Users/carterparks/Desktop/CS437/FuelCell/FuelCell.Core/Content/Audio/engine-rumble.wav</File>
+    <File>/Users/carterparks/Desktop/CS437/FuelCell/FuelCell.Core/Content/Audio/fuelcell-collect.wav</File>
+    <File>/Users/carterparks/Desktop/CS437/FuelCell/FuelCell.Core/Content/Fonts/StatsFont.spritefont</File>
+    <File>/Users/carterparks/Desktop/CS437/FuelCell/FuelCell.Core/Content/Models/BarrierBlue.png</File>
+    <File>/Users/carterparks/Desktop/CS437/FuelCell/FuelCell.Core/Content/Models/BarrierPurple.png</File>
+    <File>/Users/carterparks/Desktop/CS437/FuelCell/FuelCell.Core/Content/Models/BarrierRed.png</File>
+    <File>/Users/carterparks/Desktop/CS437/FuelCell/FuelCell.Core/Content/Models/cube10uR.x</File>
+    <File>/Users/carterparks/Desktop/CS437/FuelCell/FuelCell.Core/Content/Models/cylinder10uR.x</File>
+    <File>/Users/carterparks/Desktop/CS437/FuelCell/FuelCell.Core/Content/Models/fuelcarrier.fbx</File>
+    <File>/Users/carterparks/Desktop/CS437/FuelCell/FuelCell.Core/Content/Models/fuelcell.png</File>
+    <File>/Users/carterparks/Desktop/CS437/FuelCell/FuelCell.Core/Content/Models/fuelcellmodel.x</File>
+    <File>/Users/carterparks/Desktop/CS437/FuelCell/FuelCell.Core/Content/Models/ground.png</File>
+    <File>/Users/carterparks/Desktop/CS437/FuelCell/FuelCell.Core/Content/Models/ground.x</File>
+    <File>/Users/carterparks/Desktop/CS437/FuelCell/FuelCell.Core/Content/Models/pyramid10uR.x</File>
+    <File>/Users/carterparks/Desktop/CS437/FuelCell/FuelCell.Core/Content/Models/ShipDiffuse.tga</File>
+    <File>/Users/carterparks/Desktop/CS437/FuelCell/FuelCell.Core/Content/Models/sphere1uR.x</File>
+    <File>/Users/carterparks/Desktop/CS437/FuelCell/FuelCell.Core/Content/Models/White.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
