@@ -1,0 +1,10 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/parksc29/Desktop/CS437/Golf/Golf/Content/ball.fbx","C:/Users/parksc29/Desktop/CS437/Golf/Golf/Content/bin/DesktopGL/Content/ball.xnb","ModelProcessor","ModelContent",32044,13412,0.2789655
+"C:/Users/parksc29/Desktop/CS437/Golf/Golf/Content/ball2.fbx","C:/Users/parksc29/Desktop/CS437/Golf/Golf/Content/bin/DesktopGL/Content/ball2.xnb","ModelProcessor","ModelContent",31612,13414,0.1344471
+"C:/Users/parksc29/Desktop/CS437/Golf/Golf/Content/colormap.png","C:/Users/parksc29/Desktop/CS437/Golf/Golf/Content/bin/DesktopGL/Content/colormap_0.xnb","TextureProcessor","Texture2DContent",9637,174897,0.2759379
+"C:/Users/parksc29/Desktop/CS437/Golf/Golf/Content/File.spritefont","C:/Users/parksc29/Desktop/CS437/Golf/Golf/Content/bin/DesktopGL/Content/File.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21538,0.2360379
+"C:/Users/parksc29/Desktop/CS437/Golf/Golf/Content/hole-1.fbx","C:/Users/parksc29/Desktop/CS437/Golf/Golf/Content/bin/DesktopGL/Content/hole-1.xnb","ModelProcessor","ModelContent",32044,13412,0.0158843
+"C:/Users/parksc29/Desktop/CS437/Golf/Golf/Content/MenuFont.spritefont","C:/Users/parksc29/Desktop/CS437/Golf/Golf/Content/bin/DesktopGL/Content/MenuFont.xnb","FontDescriptionProcessor","SpriteFontContent",2068,70690,0.2482991
+"C:/Users/parksc29/Desktop/CS437/Golf/Golf/Content/test_block.fbx","C:/Users/parksc29/Desktop/CS437/Golf/Golf/Content/bin/DesktopGL/Content/test_block.xnb","ModelProcessor","ModelContent",15932,3656,0.1367536
+"C:/Users/parksc29/Desktop/CS437/Golf/Golf/Content/test_hole.fbx","C:/Users/parksc29/Desktop/CS437/Golf/Golf/Content/bin/DesktopGL/Content/test_hole.xnb","ModelProcessor","ModelContent",49580,28202,0.1592408
+"C:/Users/parksc29/Desktop/CS437/Golf/Golf/Content/TestHoleBlock.fbx","C:/Users/parksc29/Desktop/CS437/Golf/Golf/Content/bin/DesktopGL/Content/TestHoleBlock.xnb","ModelProcessor","ModelContent",15900,3656,0.1372489

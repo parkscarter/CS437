@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/parksc29/Desktop/CS437/Golf/Golf/Content/ball.fbx</File>
+    <File>C:/Users/parksc29/Desktop/CS437/Golf/Golf/Content/ball2.fbx</File>
+    <File>C:/Users/parksc29/Desktop/CS437/Golf/Golf/Content/File.spritefont</File>
+    <File>C:/Users/parksc29/Desktop/CS437/Golf/Golf/Content/hole-1.fbx</File>
+    <File>C:/Users/parksc29/Desktop/CS437/Golf/Golf/Content/MenuFont.spritefont</File>
+    <File>C:/Users/parksc29/Desktop/CS437/Golf/Golf/Content/test_block.fbx</File>
+    <File>C:/Users/parksc29/Desktop/CS437/Golf/Golf/Content/test_hole.fbx</File>
+    <File>C:/Users/parksc29/Desktop/CS437/Golf/Golf/Content/TestHoleBlock.fbx</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
